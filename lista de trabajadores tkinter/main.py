@@ -31,5 +31,5 @@ frame_login = create_login_screen(ventana, salir, mostrar_info_trabajadores, che
 frame_info_trabajadores = tk.Frame(ventana, padx=20, pady=20)
 
 # Ejecutar el bucle principal de la ventana
-# ventana.mainloop()
-# ionciowcoiwnecnowincoiwencinweocwoiencoweniciwnec
+ventana.mainloop()
+# se descomento este funcion de tkinter 
